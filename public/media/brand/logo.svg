@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" role="img" aria-label="Logotipo demonstrativo">
+  <rect width="64" height="64" rx="16" fill="#0F766E"/>
+  <path d="M18 44V20h8l10 16 10-16h8v24h-8V30l-10 14-10-14v14H18z" fill="#F8FAFC"/>
+  <text x="80" y="28" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#0F172A">EMPRESA</text>
+  <text x="80" y="50" font-family="system-ui, sans-serif" font-size="15" font-weight="500" fill="#0F766E">DEMO</text>
+</svg>

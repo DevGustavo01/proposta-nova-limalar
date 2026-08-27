@@ -1,0 +1,31 @@
+{
+  "defaultTitle": "Empresa Demo | Site institucional",
+  "defaultDescription": "Template Vue + Vuetify para site institucional. Troque identidade, textos e mídias pelos arquivos JSON.",
+  "keywords": ["institucional", "template", "vue", "vuetify"],
+  "pages": {
+    "/": {
+      "title": "Início | Empresa Demo",
+      "description": "Modelo de home institucional com hero, serviços, clientes e chamada para contato."
+    },
+    "/sobre": {
+      "title": "Sobre | Empresa Demo",
+      "description": "Quem somos, valores e selos demonstrativos."
+    },
+    "/servicos": {
+      "title": "Serviços | Empresa Demo",
+      "description": "Catálogo de soluções prontas para receber o conteúdo da marca."
+    },
+    "/temas": {
+      "title": "Temas | Empresa Demo",
+      "description": "Conteúdo educativo de demonstração."
+    },
+    "/clientes": {
+      "title": "Clientes | Empresa Demo",
+      "description": "Logos genéricos de clientes para o grid institucional."
+    },
+    "/contato": {
+      "title": "Contato | Empresa Demo",
+      "description": "Formulário e endereços ilustrativos."
+    }
+  }
+}

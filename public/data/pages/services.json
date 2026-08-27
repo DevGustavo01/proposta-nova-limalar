@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "kicker": "Serviços",
+    "title": "Ofertas prontas para o catálogo da marca.",
+    "subtitle": "Cada item tem slug, ícone, resumo e texto longo no JSON."
+  },
+  "intro": [
+    "Use esta página como vitrine. Os três serviços abaixo são exemplos de estrutura, não ofertas reais.",
+    "Inclua foto, benefícios e um CTA de orçamento no detalhe de cada slug."
+  ],
+  "items": [
+    {
+      "slug": "consultoria",
+      "title": "Consultoria",
+      "icon": "mdi-lightbulb-on-outline",
+      "image": "/media/services/consultoria.jpg",
+      "featured": true,
+      "summary": "Diagnóstico, priorização e um plano de ação objetivo.",
+      "body": [
+        "A consultoria ilustrativa cobre levantamento, análise e recomendação.",
+        "No projeto real, descreva escopo, prazo típico e entregáveis."
+      ]
+    },
+    {
+      "slug": "operacao",
+      "title": "Operação",
+      "icon": "mdi-cog-outline",
+      "image": "/media/services/operacao.jpg",
+      "featured": true,
+      "summary": "Rotina assistida, com indicadores e comunicação periódica.",
+      "body": [
+        "A operação demonstrativa simula execução contínua.",
+        "Substitua por SLAs, cadência de visitas e relatórios da marca."
+      ]
+    },
+    {
+      "slug": "suporte",
+      "title": "Suporte",
+      "icon": "mdi-headset",
+      "image": "/media/services/suporte.jpg",
+      "featured": true,
+      "summary": "Atendimento único para onboarding, dúvidas e acompanhamento.",
+      "body": [
+        "O suporte modelo concentra o canal de conversão do site.",
+        "Ajuste horários, canais e o texto do WhatsApp no identity.json."
+      ]
+    }
+  ]
+}

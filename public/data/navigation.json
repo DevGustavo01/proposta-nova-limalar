@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "label": "Início", "to": "/", "icon": "mdi-home-outline" },
+    { "label": "Sobre", "to": "/sobre", "icon": "mdi-domain" },
+    { "label": "Serviços", "to": "/servicos", "icon": "mdi-briefcase-outline" },
+    { "label": "Temas", "to": "/temas", "icon": "mdi-book-open-page-variant-outline" },
+    { "label": "Clientes", "to": "/clientes", "icon": "mdi-account-group-outline" },
+    { "label": "Contato", "to": "/contato", "icon": "mdi-email-outline" }
+  ],
+  "cta": {
+    "label": "Falar agora",
+    "event": "whatsapp"
+  }
+}

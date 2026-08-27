@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "kicker": "Relacionamento",
+    "title": "Clientes e parceiros",
+    "subtitle": "Marcas geométricas genéricas. Substitua pelos logos oficiais."
+  },
+  "intro": "Os nomes abaixo são fictícios. Cada card aceita um arquivo em /public/media/clients.",
+  "items": [
+    { "name": "Cliente Alfa", "logo": "/media/clients/cliente-a.png", "kind": "empresa" },
+    { "name": "Cliente Beta", "logo": "/media/clients/cliente-b.png", "kind": "empresa" },
+    { "name": "Cliente Gama", "logo": "/media/clients/cliente-c.png", "kind": "empresa" },
+    { "name": "Cliente Delta", "logo": "", "kind": "empresa" },
+    { "name": "Cliente Épsilon", "logo": "", "kind": "condominio" },
+    { "name": "Cliente Zeta", "logo": "", "kind": "condominio" }
+  ]
+}

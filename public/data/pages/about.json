@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "kicker": "Sobre",
+    "title": "Uma empresa modelo, pensada para receber a sua história.",
+    "subtitle": "Textos, valores e selos são demonstrativos. Substitua pelo conteúdo oficial."
+  },
+  "image": "/media/brand/about.jpg",
+  "paragraphs": [
+    "A Empresa Demo existe só para mostrar o template: camadas isoladas, JSON de conteúdo e UI Vuetify.",
+    "Quando a marca real entrar, este bloco vira a narrativa institucional — missão, trajetória e diferenciais.",
+    "A equipe, as certificações e os números devem ser atualizados nos arquivos de dados, sem reescrever as views."
+  ],
+  "certifications": [
+    {
+      "name": "Selo A",
+      "image": "",
+      "description": "Placeholder de certificação. Troque o nome e a arte."
+    },
+    {
+      "name": "Selo B",
+      "image": "",
+      "description": "Placeholder de certificação. Troque o nome e a arte."
+    },
+    {
+      "name": "Selo C",
+      "image": "",
+      "description": "Placeholder de certificação. Troque o nome e a arte."
+    },
+    {
+      "name": "Selo D",
+      "image": "",
+      "description": "Placeholder de certificação. Troque o nome e a arte."
+    }
+  ],
+  "values": [
+    {
+      "icon": "mdi-eye-outline",
+      "title": "Clareza",
+      "text": "Informação objetiva para quem chega ao site pela primeira vez."
+    },
+    {
+      "icon": "mdi-handshake-outline",
+      "title": "Proximidade",
+      "text": "Canais de contato visíveis e um fluxo de orçamento simples."
+    },
+    {
+      "icon": "mdi-tune-variant",
+      "title": "Flexibilidade",
+      "text": "Identidade e mídia entram por configuração, não por hardcode."
+    }
+  ]
+}

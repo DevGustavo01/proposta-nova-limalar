@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "kicker": "Contato",
+    "title": "Fale com a equipe",
+    "subtitle": "Formulário, mapa e telefones vêm do JSON. Os dados atuais são ilustrativos."
+  },
+  "form": {
+    "successMessage": "Mensagem montada. Confirme o envio no aplicativo que abrir.",
+    "fields": {
+      "name": "Nome",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "subject": "Assunto",
+      "message": "Mensagem"
+    },
+    "submitWhatsApp": "Enviar pelo WhatsApp",
+    "submitEmail": "Enviar por e-mail"
+  },
+  "addresses": [
+    {
+      "label": "Unidade demonstrativa",
+      "lines": [
+        "Av. Exemplo, 100 — Centro",
+        "Cidade, UF",
+        "CEP 00000-000"
+      ],
+      "query": "Avenida Rio Branco, Centro, Rio de Janeiro"
+    }
+  ]
+}

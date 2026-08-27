@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Espaço para mídia">
+  <rect width="800" height="500" fill="#F1F5F4"/>
+  <rect x="48" y="48" width="704" height="404" rx="24" fill="none" stroke="#0F766E" stroke-width="2" stroke-dasharray="10 10"/>
+  <circle cx="400" cy="220" r="36" fill="#0F766E" opacity="0.2"/>
+  <text x="400" y="300" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" fill="#0F172A">Mídia de demonstração</text>
+  <text x="400" y="332" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748B">Substitua em /public/media</text>
+</svg>

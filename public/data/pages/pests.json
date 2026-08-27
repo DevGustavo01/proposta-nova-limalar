@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "kicker": "Conteúdo",
+    "title": "Temas para educar o visitante.",
+    "subtitle": "Artigos ilustrativos. Troque por guias, cases ou FAQs da marca."
+  },
+  "items": [
+    {
+      "slug": "qualidade",
+      "name": "Qualidade",
+      "icon": "mdi-medal-outline",
+      "summary": "Como comunicar padrões, auditorias e melhoria contínua no site.",
+      "intro": [
+        "Use esta página para explicar o método de trabalho sem jargão interno.",
+        "Listas curtas e fatos objetivos funcionam melhor do que textos longos."
+      ],
+      "species": [
+        {
+          "name": "Padrão de entrega",
+          "scientificName": "",
+          "facts": [
+            "Descreva o checklist que o cliente recebe ao final do serviço.",
+            "Inclua o responsável técnico e a frequência de revisão."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sustentabilidade",
+      "name": "Sustentabilidade",
+      "icon": "mdi-leaf",
+      "summary": "Boas práticas ambientais apresentadas em linguagem institucional.",
+      "intro": [
+        "Visitantes procuram compromisso real, não selos soltos.",
+        "Relate o que a operação faz no dia a dia e o que o cliente pode fazer."
+      ],
+      "species": []
+    },
+    {
+      "slug": "seguranca",
+      "name": "Segurança",
+      "icon": "mdi-shield-check-outline",
+      "summary": "Processos, EPIs e prevenção — conteúdo educativo de demonstração.",
+      "intro": [
+        "Um informativo de segurança reduz dúvidas antes do orçamento.",
+        "Mantenha o texto em linguagem simples e atualize o JSON quando a norma mudar."
+      ],
+      "species": []
+    },
+    {
+      "slug": "atendimento",
+      "name": "Atendimento",
+      "icon": "mdi-account-heart-outline",
+      "summary": "Jornada do cliente: do primeiro contato ao pós-serviço.",
+      "intro": [
+        "Explique prazos de resposta, canais e o que o visitante deve informar no formulário.",
+        "Isso reduz fricção e melhora a qualidade do lead."
+      ],
+      "species": []
+    }
+  ]
+}

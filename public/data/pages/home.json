@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "kicker": "Template institucional",
+    "title": "Uma presença digital clara, pronta para a sua marca.",
+    "subtitle": "Estrutura Vue + Vuetify com conteúdo em JSON. Substitua textos, cores e mídias sem alterar componentes.",
+    "background": "/media/brand/hero.png",
+    "primaryCta": { "label": "Falar agora", "event": "whatsapp" },
+    "secondaryCta": { "label": "Ver serviços", "to": "/servicos" }
+  },
+  "stats": [
+    { "value": "12+", "label": "anos de operação" },
+    { "value": "80+", "label": "contas ativas" },
+    { "value": "24h", "label": "primeiro retorno" }
+  ],
+  "trustBar": {
+    "title": "Pilares de confiança",
+    "items": [
+      { "icon": "mdi-shield-check-outline", "label": "Compliance" },
+      { "icon": "mdi-account-tie-outline", "label": "Responsável técnico" },
+      { "icon": "mdi-leaf", "label": "Sustentabilidade" },
+      { "icon": "mdi-certificate-outline", "label": "Qualidade" }
+    ]
+  },
+  "storyPreview": {
+    "eyebrow": "Sobre",
+    "title": "Institucional, direto e fácil de personalizar.",
+    "image": "/media/brand/about.jpg",
+    "paragraphs": [
+      "Este modelo reúne as seções clássicas de um site corporativo: história, ofertas, conteúdo educativo, clientes e contato.",
+      "Tudo vem de JSON. Quando a identidade visual e as mídias oficiais chegarem, basta trocar os arquivos em public/data e public/media."
+    ],
+    "cta": { "label": "Conhecer a empresa", "to": "/sobre" }
+  },
+  "highlights": {
+    "title": "Soluções em destaque",
+    "subtitle": "Três ofertas ilustrativas. Edite títulos, textos e fotos no JSON de serviços.",
+    "items": [
+      {
+        "slug": "consultoria",
+        "title": "Consultoria",
+        "image": "/media/services/consultoria.jpg",
+        "summary": "Diagnóstico e plano de ação alinhados ao objetivo do cliente."
+      },
+      {
+        "slug": "operacao",
+        "title": "Operação",
+        "image": "/media/services/operacao.jpg",
+        "summary": "Execução assistida, com rotina, indicadores e reporte claro."
+      },
+      {
+        "slug": "suporte",
+        "title": "Suporte",
+        "image": "/media/services/suporte.jpg",
+        "summary": "Canal único para dúvidas, onboarding e acompanhamento."
+      }
+    ]
+  },
+  "clientsPreview": {
+    "title": "Quem já confia",
+    "cta": { "label": "Ver todos", "to": "/clientes" }
+  },
+  "finalCta": {
+    "title": "Vamos conversar",
+    "subtitle": "WhatsApp, telefone ou formulário — os destinos vêm do identity.json.",
+    "primary": { "label": "WhatsApp", "event": "whatsapp" },
+    "secondary": { "label": "Ir para contato", "to": "/contato" }
+  }
+}

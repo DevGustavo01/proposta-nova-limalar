@@ -1,0 +1,64 @@
+{
+  "brandName": "Empresa Demo",
+  "legalName": "Empresa Demo Ltda.",
+  "tagline": "Template institucional pronto para receber a sua identidade visual.",
+  "foundedYear": 2026,
+  "logo": {
+    "header": "/media/brand/logo.svg",
+    "footer": "/media/brand/logo-inverse.svg",
+    "favicon": "/media/brand/favicon.svg",
+    "alt": "Logotipo de demonstração"
+  },
+  "theme": {
+    "defaultTheme": "brand",
+    "colors": {
+      "primary": "#0F766E",
+      "secondary": "#0F172A",
+      "accent": "#2DD4BF",
+      "header": "#FFFFFF",
+      "surface": "#F8FAFC",
+      "background": "#FFFFFF",
+      "error": "#B3261E",
+      "info": "#0F766E",
+      "success": "#0F766E",
+      "warning": "#C47B17",
+      "on-primary": "#FFFFFF",
+      "on-secondary": "#FFFFFF",
+      "on-surface": "#0F172A"
+    },
+    "fonts": {
+      "heading": "system-ui, 'Segoe UI', sans-serif",
+      "body": "system-ui, 'Segoe UI', sans-serif"
+    },
+    "radius": "16px"
+  },
+  "contact": {
+    "whatsapp": {
+      "e164": "5500000000000",
+      "display": "(00) 00000-0000",
+      "defaultMessage": "Olá, gostaria de um orçamento."
+    },
+    "phones": [
+      {
+        "e164": "+5500000000000",
+        "display": "(00) 00000-0000",
+        "label": "WhatsApp"
+      }
+    ],
+    "emails": [
+      {
+        "address": "contato@empresa.demo",
+        "label": "Contato",
+        "primary": true
+      },
+      {
+        "address": "comercial@empresa.demo",
+        "label": "Comercial"
+      }
+    ]
+  },
+  "social": [],
+  "legal": {
+    "copyright": "© 2026 Empresa Demo. Conteúdo ilustrativo — substitua pelo JSON da marca."
+  }
+}

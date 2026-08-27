@@ -1,0 +1,13 @@
+{
+  "identity": "identity.json",
+  "navigation": "navigation.json",
+  "seo": "seo.json",
+  "pages": {
+    "home": "pages/home.json",
+    "about": "pages/about.json",
+    "services": "pages/services.json",
+    "pests": "pages/pests.json",
+    "clients": "pages/clients.json",
+    "contact": "pages/contact.json"
+  }
+}
